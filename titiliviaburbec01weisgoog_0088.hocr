@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviaburbec01weisgoog_0088.png"; bbox 0 0 2566 4524; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 1387 721 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 1387 721 1509">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 1387 721 1509; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 340 1389 508 1508; x_wconf 89' lang='grc' dir='ltr'>ΤΙΤΙ</span> <span class='ocrx_word' id='word_1_2' title='bbox 544 1387 721 1509; x_wconf 89' lang='lat' dir='ltr'><strong>LIVI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 1709 944 1807">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 1709 944 1807">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1709 944 1807; baseline 0.004 -3"><span class='ocrx_word' id='word_1_3' title='bbox 130 1722 201 1805; x_wconf 81' lang='grc' dir='ltr'><strong>ΑΒ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 237 1722 405 1805; x_wconf 85' lang='lat' dir='ltr'>VRBE</span> <span class='ocrx_word' id='word_1_5' title='bbox 441 1709 714 1806; x_wconf 81' lang='lat' dir='ltr'><strong>CONDITA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 752 1723 944 1807; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 455 2125 625 2141">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 455 2125 625 2141">
+     <span class='ocr_line' id='line_1_3' title="bbox 455 2125 625 2141; baseline 0 -6"><span class='ocrx_word' id='word_1_7' title='bbox 455 2125 625 2141; x_wconf 76' lang='lat'><strong>—--</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1288 4524">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1288 4524">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1288 4524; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1288 4524; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
